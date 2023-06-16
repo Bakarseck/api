@@ -1,0 +1,705 @@
+[
+	{
+		"id": 1,
+		"wolof": "Na nga def ?",
+		"français": "Comment vas tu ?",
+		"anglais": "How are you ?",
+		"espagnol": "¿Cómo estás?"
+	},{
+		"id": 2,
+		"wolof": "Mangui gui fi",
+		"français": "Je vais bien",
+		"anglais": "I'm fine",
+		"espagnol": "Estoy bien"
+	},{
+		"id": 3,
+		"wolof": "iow nak no def ?",
+		"français": "Et toi comment va tu ?",
+		"anglais": "And you how are you ?",
+		"espagnol": "Y tú ¿Cómo estás?"
+	},{
+		"id": 4,
+		"wolof": "Mangui ci diam",
+		"français": "Ca va",
+		"anglais": "I'm good",
+		"espagnol": "Estoy bien"
+	},{
+		"id": 5,
+		"wolof": "Kay gnou lekk",
+		"français": "Viens on mange",
+		"anglais": "Let's take a meal",
+		"espagnol": "Vamos a comer"
+	},{
+		"id": 6,
+		"wolof": "Gnata att nga am ?",
+		"français": "Quelle age as-tu ?",
+		"anglais": "How old are you ?",
+		"espagnol": "¿Cuántos años tienes?"
+	},{
+		"id": 7,
+		"wolof": "Tay dama woorr",
+		"français": "J'ai jeûné aujourd'hui",
+		"anglais": "I fasted today",
+		"espagnol": "No he comido hoy"
+	},{
+		"id": 8,
+		"wolof": "Fane nga deuk ?",
+		"français": "Où est-ce que tu habites ?",
+		"anglais": "Where do you live ?",
+		"espagnol": "¿Dónde vives?"
+	},{
+		"id": 9,
+		"wolof": "Nane nga toudou ?",
+		"français": "Comment est-ce que tu t'appelle ?",
+		"anglais": "What's your name ?",
+		"espagnol": "¿Cómo te llamas?"
+	},{
+		"id": 10,
+		"wolof": "Mangui toudou X",
+		"français": "Je m'appelle X",
+		"anglais": "My name is X",
+		"espagnol": "Me llamo X"
+	},{
+		"id": 11,
+		"wolof": "Dama la sokhla",
+		"français": "J'ai besoin de toi",
+		"anglais": "I need you",
+		"espagnol": "Te necesito"
+	},{
+		"id": 12,
+		"wolof": "Dama khiff",
+		"français": "J'ai faim",
+		"anglais": "I am hungry",
+		"espagnol": "Tengo hambre"
+	},{
+		"id": 13,
+		"wolof": "Dama marr",
+		"français": "J'ai soif",
+		"anglais": "I am thirsty",
+		"espagnol": "Tengo sed"
+	},{
+		"id": 14,
+		"wolof": "Mangui joko si leund mi",
+		"français": "Je me connecte sur le web",
+		"anglais": "I am surfing on the web",
+		"espagnol": "Estoy conectado a internet"
+	},{
+		"id": 15,
+		"wolof": "Dama beug lou jeum si waloum xarala",
+		"français": "J'adore la Technologie",
+		"anglais": "I love Technology",
+		"espagnol": "Amo la tecnología"
+	},{
+		"id": 16,
+		"wolof": "Dama beug ndekki",
+		"français": "Je veux prendre un petit déjeuner",
+		"anglais": "I want to take a breakfast",
+		"espagnol": "Quiero desayunar"
+	},{
+		"id": 17,
+		"wolof": "Dama beug Agne",
+		"français": "Je veux prendre un déjeuner",
+		"anglais": "I want to have lunch",
+		"espagnol": "Quiero comer"
+	},{
+		"id": 18,
+		"wolof": "Dama beug rére",
+		"français": "Je veux prendre un dîner",
+		"anglais": "I want to have a dinner",
+		"espagnol": "Quiero cenar"
+	},{
+		"id": 19,
+		"wolof": "Damay takk jabar",
+		"français": "Je vais me marier",
+		"anglais": "I'm getting married",
+		"espagnol": "Me voy a casar"
+	},{
+		"id": 20,
+		"wolof": "Mayma khaliss",
+		"français": "Donne moi de l'argent",
+		"anglais": "Give me some money",
+		"espagnol": "Dame dinero"
+	},{
+		"id": 21,
+		"wolof": "Bane wakhtu mo joot ?",
+		"français": "Quelle heure fait-il ?",
+		"anglais": "What time is it ?",
+		"espagnol": "¿Qué hora es?"
+	},{
+		"id": 22,
+		"wolof": "Dama sonne",
+		"français": "Je suis fatigué",
+		"anglais": "I'm tired",
+		"espagnol": "Estoy cansado"
+	},{
+		"id": 23,
+		"wolof": "Bu la neexee",
+		"français": "S’il vous plaît",
+		"anglais": "Please",
+		"espagnol": "Por favor"
+	},{
+		"id": 24,
+		"wolof": "Amul sólo",
+		"français": "Je vous en prie",
+		"anglais": "You’re welcome",
+		"espagnol": "De nada"
+	},{
+		"id": 25,
+		"wolof": "Kay niou dem",
+		"français": "Viens on y va",
+		"anglais": "Come let's go",
+		"espagnol": "Vamonos"
+	},{
+		"id": 26,
+		"wolof": "Jéggël ma",
+		"français": "Excusez-moi",
+		"anglais": "Excuse me",
+		"espagnol": "Disculpe"
+	},{
+		"id": 27,
+		"wolof": "Ndax dégg nga angale ?",
+		"français": "Parlez-vous anglais ?",
+		"anglais": "Do you speak English ?",
+		"espagnol": "¿Hablas español?"
+	},{
+		"id": 28,
+		"wolof": "Dégg nga ?",
+		"français": "Comprenez-vous ?",
+		"anglais": "Do you understand ?",
+		"espagnol": "¿Me entiendes?"
+	},{
+		"id": 29,
+		"wolof": "Dégg naa",
+		"français": "Je comprends",
+		"anglais": "I understand",
+		"espagnol": "Entiendo"
+	},{
+		"id": 30,
+		"wolof": "Dégguma",
+		"français": "Je ne comprends pas",
+		"anglais": "I don’t understand",
+		"espagnol": "No entiendo"
+	},{
+		"id": 31,
+		"wolof": "Nanga tudd ?",
+		"français": "Quel est ton nom ?",
+		"anglais": "What is your name ?",
+		"espagnol": "¿Cuál es tú nombre?"
+	},{
+		"id": 32,
+		"wolof": "Jàmm nga fanaane ?",
+		"français": "Comment s'est passée votre soirée ?",
+		"anglais": "How was your night ?",
+		"espagnol": "¿Cómo te fue anoche?"
+	},{
+		"id": 33,
+		"wolof": "Fii ba Sandaga ñaata ?",
+		"français": "Combien ça fait d'ici à Sandaga ?",
+		"anglais": "How much is it from here to Sandaga ?",
+		"espagnol": "¿A qué distancia está Sandanga desde aquí?"
+	},{
+		"id": 34,
+		"wolof": "Fan mooy seen wanaag ?",
+		"français": "Où sont les toilettes ?",
+		"anglais": "Where is the toilet ?",
+		"espagnol": "¿Dónde está el baño?"
+	},{
+		"id": 35,
+		"wolof": "Neexoon na",
+		"français": "C'était bon",
+		"anglais": "It was good",
+		"espagnol": "Estuvo bien"
+	},{
+		"id": 36,
+		"wolof": "Mi ngi ci jàmm",
+		"français": "Il/Elle va bien",
+		"anglais": "He/She is fine",
+		"espagnol": "El/Ella está bien"
+	},{
+		"id": 37,
+		"wolof": "Ñaata lay jar ?",
+		"français": "Combien ça coûte ?",
+		"anglais": "How much is it ?",
+		"espagnol": "¿Cuánto es?"
+	},{
+		"id": 38,
+		"wolof": "Ñaata ngay jaaye bii ?",
+		"français": "Tu vends ça combien ?",
+		"anglais": "How much are you selling this for ?",
+		"espagnol": "¿Cuánto cuesta esto?"
+	},{
+		"id": 39,
+		"wolof": "Seer na lool",
+		"français": "C'est très cher",
+		"anglais": "That’s very expensive",
+		"espagnol": "Eso es muy caro"
+	},{
+		"id": 40,
+		"wolof": "Wagniil mako",
+		"français": "Diminue moi ça",
+		"anglais": "Turn it down for me",
+		"espagnol": "Baja el precio"
+	},{
+		"id": 41,
+		"wolof": "Lougnouy lekk ?",
+		"français": "Qu'est ce qu'on mange ?",
+		"anglais": "What do we eat ?",
+		"espagnol": "¿Qué vamos a comer?"
+	},{
+		"id": 42,
+		"wolof": "Naka nga yendo ?",
+		"français": "Comment s'est passée ta journée ?",
+		"anglais": "How was your day ?",
+		"espagnol": "¿Cómo fue tu día?"
+	},{
+		"id": 43,
+		"wolof": "Barki démb diaronne na sa keur",
+		"français": "Avant-hier j'étais passé chez toi",
+		"anglais": "the day before yesterday I went to your house",
+		"espagnol": "Antes de ayer fuí a tu casa"
+	},{
+		"id": 44,
+		"wolof": "Dama nieuwone indil leu sa khaliss",
+		"français": "J'étais venu t'apporter ton argent",
+		"anglais": "I came to bring you your money",
+		"espagnol": "Vine a traerte tú dinero"
+	},{
+		"id": 45,
+		"wolof": "Dama nékone daara dja",
+		"français": "J'étais à l'école",
+		"anglais": "I was at school",
+		"espagnol": "Estaba en la escuela"
+	},{
+		"id": 46,
+		"wolof": "Damay saakou xam-xam",
+		"français": "Je suis à la quête de connaissance",
+		"anglais": "I am on a quest for knowledge",
+		"espagnol": "Estoy en búsqueda de conocimiento"
+	},{
+		"id": 47,
+		"wolof": "Nianal ma !",
+		"français": "Prie pour moi !",
+		"anglais": "Pray for me !",
+		"espagnol": "¡Reza por mi!"
+	},{
+		"id": 48,
+		"wolof": "Témérri Diouni",
+		"français": "Cent milles",
+		"anglais": "One hundred thousand",
+		"espagnol": "Cien mil"
+	},{
+		"id": 49,
+		"wolof": "Damala beug",
+		"français": "Je t'aime",
+		"anglais": "I love you",
+		"espagnol": "Te amo"
+	},{
+		"id": 50,
+		"wolof": "Dama gueuméntou",
+		"français": "J'ai sommeil",
+		"anglais": "I feel sleepy",
+		"espagnol": "Tengo mucho sueño"
+	},{
+		"id": 51,
+		"wolof": "Dama beug nelaw",
+		"français": "Je veux dormir",
+		"anglais": "I want to sleep",
+		"espagnol": "Quiero dormir"
+	},{
+		"id": 52,
+		"wolof": "Fane nga dieum ni ?",
+		"français": "Où vas-tu ?",
+		"anglais": "Where are you going ?",
+		"espagnol": "¿A dónde vas?"
+	},{
+		"id": 53,
+		"wolof": "Nélaww gua bou baxx ?",
+		"français": "as tu bien dormi ?",
+		"anglais": "did you sleep well ?",
+		"espagnol": "¿Dormiste bien?"
+	},{
+		"id": 54,
+		"wolof": "Testou sansement bant yi",
+		"français": "Test des mises à jours des branches",
+		"anglais": "Branches updating tests ?",
+		"espagnol": "Actualizando ramas de prueba"
+	},{
+		"id": 55,
+		"wolof": "Yalla baxna",
+		"français": "ça ira",
+		"anglais": "it will be fine",
+		"espagnol": "Todo estará bien"
+	},{
+		"id": 56,
+		"wolof": "fane yi dara doxoul",
+		"français": "Rien ne marche ces temps-ci",
+		"anglais": "Nothing works these days",
+		"espagnol": "Nada funciona estos últimamente"
+	},{
+		"id": 57,
+		"wolof": "Dieureudieuf",
+		"français": "Merci",
+		"anglais": "Thanks !!",
+		"espagnol": "¡¡Gracias!!"
+	},{
+		"id": 58,
+		"wolof": "Touti",
+		"français": "un peu",
+		"anglais": "A little",
+		"espagnol": "Un poco"
+	},{
+		"id": 59,
+		"wolof": "Kay",
+		"français": "viens",
+		"anglais": "Come",
+		"espagnol": "Ven"
+	},{
+		"id": 60,
+		"wolof": "Kay Agne",
+		"français": "viens manger",
+		"anglais": "come to eat",
+		"espagnol": "Ven a comer"
+	},{
+		"id": 61,
+		"wolof": "Damay touki",
+		"français": "je voyage",
+		"anglais": "I travel",
+		"espagnol": "Yo viajo"
+	},{
+		"id": 62,
+		"wolof": "Bokk na",
+		"français": "Je participe",
+		"anglais": "I participate",
+		"espagnol": "Yo participo"
+	},{
+		"id": 63,
+		"wolof": "Dama beugue diangue.",
+		"français": "J'aime les études.",
+		"anglais": "I love studies",
+		"espagnol": "Yo amo estudiar"
+	},{
+		"id": 64,
+		"wolof": "Nit ñu baree ngi ci kër gi.",
+		"français": "Il y a beaucoup de gens dans la maison.",
+		"anglais": "There are a lot of people in the house.",
+		"espagnol": "Hay mucha gente en esta casa"
+	},{
+		"id": 65,
+		"wolof": "Ab paaka la yore.",
+		"français": "Il a un couteau sur lui.",
+		"anglais": "He has a knife on him.",
+		"espagnol": "El carga un cuchillo"
+	},{
+		"id": 66,
+		"wolof": "Dama khiff.",
+		"français": "J'ai faim.",
+		"anglais": "I'm hungry.",
+		"espagnol": "Tengo hambre"
+	},{
+		"id": 67,
+		"wolof": "Dama ame ndadjé.",
+		"français": "J'ai un rendez-vous.",
+		"anglais": "I have an a appointment.",
+		"espagnol": "Tengo una cita"
+	},{
+		"id": 68,
+		"wolof": "Ndekki wouma.",
+		"français": "Je n'ai pas pris mon petit-déjeuner.",
+		"anglais": "I have not eaten my breakfast.",
+		"espagnol": "No he desayunado"
+	},{
+		"id": 69,
+		"wolof": "Awa diangue Kate la.",
+		"français": "Awa est un bon élève",
+		"anglais": "Awa is a good student.",
+		"espagnol": "Awa es una buena estudiante"
+	},{
+		"id": 70,
+		"wolof": "Sama mak bou djiguène daye toggou agne.",
+		"français": "Ma grande sœur prépare le repas.",
+		"anglais": "My elder sister cooks the lunch.",
+		"espagnol": "Mi hermana mayor cocina el almuerzo"
+	},{
+		"id": 71,
+		"wolof": "Beugouma carote.",
+		"français": "Je n'aime pas les carottes.",
+		"anglais": "I don’t like carrots.",
+		"espagnol": "No me gustan las zanahorias"
+	},{
+		"id": 72,
+		"wolof": "Legui mangui diangue ak Médoune.",
+		"français": "Maintenant j'apprends avec Médoune.",
+		"anglais": "Right now I learn with Médoune.",
+		"espagnol": "Ahora mismo aprendo con Médoune"
+	},{
+		"id": 73,
+		"wolof": "Sama yaye dafa beugue pomme.",
+		"français": "Ma mère aimes les pommes.",
+		"anglais": "My mother likes apples.",
+		"espagnol": "A mi mamá le gustan las manzanas"
+	},{
+		"id": 74,
+		"wolof": "Dama taxaw!",
+		"français": "Je suis debout!",
+		"anglais": "I'm standing up!",
+		"espagnol": "¡Estoy de pie!"
+	},{
+		"id": 75,
+		"wolof": "Beugouma",
+		"français": "Je n'aime pas",
+		"anglais": "I don’t like.",
+		"espagnol": "No me gusta."
+	},{
+		"id": 76,
+		"wolof": "Maa ngi dem",
+		"français": "Je m’en vais",
+		"anglais": "I am leaving.",
+		"espagnol": "Me voy."
+	},{
+		"id": 77,
+		"wolof": "Ba beneen yoon inch Allah",
+		"français": "A la prochaine si Dieu le veut",
+		"anglais": "Until next time God willing.",
+		"espagnol": "Hasta la próxima vez si Dios quiere"
+	},{
+		"id": 78,
+		"wolof": "Boroom ndékki ku ko jëkka yeewu tëddaat",
+		"français": "Celui qui se lève avant le responsable du petit déjeuner peut aller se recoucher",
+		"anglais": "Whoever gets up before the breakfast manager can go back to bed.",
+		"espagnol": "Quien se levante antes que el encargado del desayuno puede volver a la cama"
+	},{
+		"id": 79,
+		"wolof": "Ganaar du am faru siiru",
+		"français": "La poule ne doit pas avoir pour fiancer un chat sauvage",
+		"anglais": "The hen must not have to betroth a wild cat",
+		"espagnol": "La gallina no debe tener que desposar a un gato salvaje"
+	},{
+		"id": 80,
+		"wolof": "Guy dana juri dég",
+		"français": "Il arrive qu’un baobab ait des épines",
+		"anglais": "Sometimes a baobab tree has thorns",
+		"espagnol": "A veces un árbol baobab tiene espinas"
+	},{
+		"id": 81,
+		"wolof": "Daay fay!",
+		"français": "Ca paye!",
+		"anglais": "It pays!",
+		"espagnol": "Vale la pena!"
+	},{
+		"id": 82,
+		"wolof": "Ko yaab iow!",
+		"français": "Tu qui on se moques là",
+		"anglais": "Who are you kidding!",
+		"espagnol": "A quien estas engañando!"
+	},{
+		"id": 83,
+		"wolof": "Am ngeu melokane deh!",
+		"français": "Ah ouais t'es comme çà toi!",
+		"anglais": "So you're like that!",
+		"espagnol": "¡Oh sí eres así!"
+	},{
+		"id": 84,
+		"wolof": "Dama taxaw!",
+		"français": "Je suis debout!",
+		"anglais": "I'm standing up!",
+		"espagnol": "¡Estoy de pie!"
+	},{
+		"id": 85,
+		"wolof": "Dama invité sama gel",
+		"français": "J'ai invité ma petite copine",
+		"anglais": "I invited my girlfriend",
+		"espagnol": "invité a mi novia"
+	},{
+		"id": 86,
+		"wolof": "Yomb na",
+		"français": "C’est très bon marché",
+		"anglais": "It's very cheap",
+		"espagnol": ""
+	},{
+		"id": 87,
+		"wolof": "Bare na",
+		"français": "C’est trop cher",
+		"anglais": "It's too expensive",
+		"espagnol": ""
+	},{
+		"id": 88,
+		"wolof": "Ba beneen yoon inch Allah",
+		"français": "A la prochaine si Dieu le veut",
+		"anglais": "Until next time God willing",
+		"espagnol": ""
+	},{
+		"id": 89,
+		"wolof": "Degg nga Français",
+		"français": "Parlez-vous Français",
+		"anglais": "Do you speak French",
+		"espagnol": ""
+	},{
+		"id": 90,
+		"wolof": "Deedeet jërëjëf",
+		"français": "Non merci",
+		"anglais": "No thanks",
+		"espagnol": ""
+	},{
+		"id": 91,
+		"wolof": "Amul solo",
+		"français": "De rien",
+		"anglais": "You're welcome",
+		"espagnol": ""
+	},{
+		"id": 92,
+		"wolof": "Niokobok",
+		"français": "Je vous en prie",
+		"anglais": "You are welcome",
+		"espagnol": ""
+	},{
+		"id": 93,
+		"wolof": "Li lan la",
+		"français": "Qu’est-ce que c’est ?",
+		"anglais": "What is that ?",
+		"espagnol": ""
+	},{
+		"id": 94,
+		"wolof": "Dema fe ñëw wakansu",
+		"français": "Je suis ici en vacances",
+		"anglais": "I'm here on vacation",
+		"espagnol": ""
+	},{
+		"id": 95,
+		"wolof": "Dema fe ñëw ngir ligey",
+		"français": "Je suis ici pour le travail",
+		"anglais": "I'm here for work",
+		"espagnol": ""
+	},{
+		"id": 96,
+		"wolof": "Demay Xool rek",
+		"français": "Je ne fais que regarder",
+		"anglais": "I just watch",
+		"espagnol": ""
+	},{
+		"id": 97,
+		"wolof": "Dama bëgga dem",
+		"français": "Je voudrais aller",
+		"anglais": "I would like to go",
+		"espagnol": ""
+	},{
+		"id": 98,
+		"wolof": "Ndax mën naa fi luwe",
+		"français": "Je voudrais louer",
+		"anglais": "I would like to rent",
+		"espagnol": ""
+	},{
+		"id": 99,
+		"wolof": "Neex na torop",
+		"français": "C’était délicieux",
+		"anglais": "That was delicious",
+		"espagnol": ""
+	},{
+		"id": 100,
+		"wolof": "Lo may digël ?",
+		"français": "Qu’est-ce que vous me recommandez ?",
+		"anglais": "What do you recommend me ?",
+		"espagnol": ""
+	},{
+		"id": 101,
+		"wolof": "Du ma lek yapp",
+		"français": "Je suis végétarien",
+		"anglais": "I am vegetarian",
+		"espagnol": ""
+	},{
+		"id": 102,
+		"wolof": "Bëggu ma kaani",
+		"français": "Sans épice (Je n’aime pas les épices)",
+		"anglais": "Without spices (I don't like spices)",
+		"espagnol": ""
+	},{
+		"id": 103,
+		"wolof": "Tang na",
+		"français": "C’est trop chaud",
+		"anglais": "It's too hot",
+		"espagnol": ""
+	},{
+		"id": 104,
+		"wolof": "Sama yara nangu wu ko",
+		"français": "Je suis allergique",
+		"anglais": "I am allergic",
+		"espagnol": ""
+	},{
+		"id": 105,
+		"wolof": "May ma ndox ma naan",
+		"français": "Offrez-moi de l’eau à boire",
+		"anglais": "Give me water to drink",
+		"espagnol": ""
+	},{
+		"id": 106,
+		"wolof": "Dama bëgg giss doktoor",
+		"français": "J’ai besoin de voir un médecin",
+		"anglais": "I need to see a doctor",
+		"espagnol": ""
+	},{
+		"id": 107,
+		"wolof": "Wootel doctor",
+		"français": "Appelez un médecin",
+		"anglais": "Call a doctor",
+		"espagnol": ""
+	},{
+		"id": 108,
+		"wolof": "Ana hoppital ?",
+		"français": "Où est l’hôpital ?",
+		"anglais": "Where is the hospital ?",
+		"espagnol": ""
+	},{
+		"id": 109,
+		"wolof": "Dama feebar",
+		"français": "Je ne me sens pas très bien",
+		"anglais": "I do not feel very well",
+		"espagnol": ""
+	},{
+		"id": 110,
+		"wolof": "Fi moy meeti",
+		"français": "J’ai mal ici",
+		"anglais": "I hurt here",
+		"espagnol": ""
+	},{
+		"id": 111,
+		"wolof": "Ana wanak wi ?",
+		"français": "Où sont les toilettes ?",
+		"anglais": "Where are the toilets ?",
+		"espagnol": ""
+	},{
+		"id": 112,
+		"wolof": "Wollu !",
+		"français": "A l’aide !",
+		"anglais": "Help !",
+		"espagnol": ""
+	},{
+		"id": 113,
+		"wolof": "Dema reer",
+		"français": "Je suis perdu(e)",
+		"anglais": "I'm lost",
+		"espagnol": ""
+	},{
+		"id": 114,
+		"wolof": "sama Dom leuh",
+		"français": "c'est mon fils",
+		"anglais": "he's my son",
+		"espagnol": "es mi hijo"
+	},{
+		"id": 115,
+		"wolof": "Yàlla",
+		"français": "Dieu",
+		"anglais": "God",
+		"espagnol": "Dios"
+	},{
+		"id": 116,
+		"wolof": "Taax",
+		"français": "Bâtiment",
+		"anglais": "Building",
+		"espagnol": "Edificio"
+	},{
+		"id": 117,
+		"wolof": "Keur",
+		"français": "Maison",
+		"anglais": "House",
+		"espagnol": "Casa"
+	}
+]

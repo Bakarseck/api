@@ -1,0 +1,1507 @@
+[
+	{
+		"id": 1,
+		"français": "chat",
+		"anglais": "cat",
+		"chinois": "māo",
+		"wolof": "mouss"
+	},
+	{
+		"id": 2,
+		"français": "chien",
+		"anglais": "dog",
+		"chinois": "gǒu",
+		"wolof": "xadj"
+	},
+	{
+		"id": 3,
+		"français": "maison",
+		"anglais": "house",
+		"chinois": "fáng zi",
+		"wolof": "keur"
+	},
+	{
+		"id": 4,
+		"français": "arbre",
+		"anglais": "tree",
+		"chinois": "shù",
+		"wolof": "garab"
+	},
+	{
+		"id": 5,
+		"français": "livre",
+		"anglais": "book",
+		"chinois": "shū",
+		"wolof": "teere"
+	},
+	{
+		"id": 6,
+		"français": "ordinateur",
+		"anglais": "computer",
+		"chinois": "diàn nǎo"
+	},
+	{
+		"id": 7,
+		"français": "voiture",
+		"anglais": "car",
+		"chinois": "qì chē"
+	},
+	{
+		"id": 8,
+		"français": "manger",
+		"anglais": "eat",
+		"chinois": "chī"
+	},
+	{
+		"id": 9,
+		"français": "dormir",
+		"anglais": "sleep",
+		"chinois": "shuì jiào"
+	},
+	{
+		"id": 10,
+		"français": "écrire",
+		"anglais": "write",
+		"chinois": "xiě"
+	},
+	{
+		"id": 11,
+		"français": "musique",
+		"anglais": "music",
+		"chinois": "yīn yuè"
+	},
+	{
+		"id": 12,
+		"français": "voyage",
+		"anglais": "travel",
+		"chinois": "lǚ xíng"
+	},
+	{
+		"id": 13,
+		"français": "amour",
+		"anglais": "love",
+		"chinois": "ài"
+	},
+	{
+		"id": 14,
+		"français": "jardin",
+		"anglais": "garden",
+		"chinois": "huā yuán"
+	},
+	{
+		"id": 15,
+		"français": "pain",
+		"anglais": "bread",
+		"chinois": "miàn bāo"
+	},
+	{
+		"id": 16,
+		"français": "fleur",
+		"anglais": "flower",
+		"chinois": "huā"
+	},
+	{
+		"id": 17,
+		"français": "soleil",
+		"anglais": "sun",
+		"chinois": "tài yáng"
+	},
+	{
+		"id": 18,
+		"français": "lune",
+		"anglais": "moon",
+		"chinois": "yuè liàng"
+	},
+	{
+		"id": 19,
+		"français": "mer",
+		"anglais": "sea",
+		"chinois": "hǎi"
+	},
+	{
+		"id": 20,
+		"français": "montagne",
+		"anglais": "mountain",
+		"chinois": "shān"
+	},
+	{
+		"id": 21,
+		"français": "chemin",
+		"anglais": "path",
+		"chinois": "lù"
+	},
+	{
+		"id": 22,
+		"français": "ami",
+		"anglais": "friend",
+		"chinois": "péng yǒu"
+	},
+	{
+		"id": 23,
+		"français": "famille",
+		"anglais": "family",
+		"chinois": "jiā tíng"
+	},
+	{
+		"id": 24,
+		"français": "travail",
+		"anglais": "work",
+		"chinois": "gōng zuò"
+	},
+	{
+		"id": 25,
+		"français": "école",
+		"anglais": "school",
+		"chinois": "xué xiào"
+	},
+	{
+		"id": 26,
+		"français": "lire",
+		"anglais": "read",
+		"chinois": "dú"
+	},
+	{
+		"id": 27,
+		"français": "nager",
+		"anglais": "swim",
+		"chinois": "yóu yǒng"
+	},
+	{
+		"id": 28,
+		"français": "chanson",
+		"anglais": "song",
+		"chinois": "gē qǔ"
+	},
+	{
+		"id": 29,
+		"français": "joie",
+		"anglais": "joy",
+		"chinois": "kuài lè"
+	},
+	{
+		"id": 30,
+		"français": "triste",
+		"anglais": "sad",
+		"chinois": "bēi shāng"
+	},
+	{
+		"id": 31,
+		"français": "rire",
+		"anglais": "laugh",
+		"chinois": "xiào"
+	},
+	{
+		"id": 32,
+		"français": "fête",
+		"anglais": "party",
+		"chinois": "pài duì"
+	},
+	{
+		"id": 33,
+		"français": "bonheur",
+		"anglais": "happiness",
+		"chinois": "xìng fú"
+	},
+	{
+		"id": 34,
+		"français": "santé",
+		"anglais": "health",
+		"chinois": "jiàn kāng"
+	},
+	{
+		"id": 35,
+		"français": "argent",
+		"anglais": "money",
+		"chinois": "qián"
+	},
+	{
+		"id": 36,
+		"français": "voyager",
+		"anglais": "travel",
+		"chinois": "lǚ yóu"
+	},
+	{
+		"id": 37,
+		"français": "cuisine",
+		"anglais": "kitchen",
+		"chinois": "chú fáng"
+	},
+	{
+		"id": 38,
+		"français": "courir",
+		"anglais": "run",
+		"chinois": "pǎo"
+	},
+	{
+		"id": 39,
+		"français": "équilibre",
+		"anglais": "balance",
+		"chinois": "píng héng"
+	},
+	{
+		"id": 40,
+		"français": "paix",
+		"anglais": "peace",
+		"chinois": "hé píng"
+	},
+	{
+		"id": 41,
+		"français": "rire",
+		"anglais": "laughter",
+		"chinois": "xiào shēng"
+	},
+	{
+		"id": 42,
+		"français": "pardon",
+		"anglais": "forgiveness",
+		"chinois": "yuán liàng"
+	},
+	{
+		"id": 43,
+		"français": "calme",
+		"anglais": "calm",
+		"chinois": "píng jìng"
+	},
+	{
+		"id": 44,
+		"français": "beau",
+		"anglais": "beautiful",
+		"chinois": "měi lì"
+	},
+	{
+		"id": 45,
+		"français": "bon",
+		"anglais": "good",
+		"chinois": "hǎo"
+	},
+	{
+		"id": 46,
+		"français": "mauvais",
+		"anglais": "bad",
+		"chinois": "huài"
+	},
+	{
+		"id": 47,
+		"français": "heureux",
+		"anglais": "happy",
+		"chinois": "kuài lè"
+	},
+	{
+		"id": 48,
+		"français": "triste",
+		"anglais": "sad",
+		"chinois": "shāng xīn"
+	},
+	{
+		"id": 49,
+		"français": "intelligent",
+		"anglais": "intelligent",
+		"chinois": "cōng míng"
+	},
+	{
+		"id": 50,
+		"français": "bête",
+		"anglais": "stupid",
+		"chinois": "yú chǔn"
+	},
+	{
+		"id": 51,
+		"français": "courageux",
+		"anglais": "brave",
+		"chinois": "yǒng gǎn"
+	},
+	{
+		"id": 52,
+		"français": "lâche",
+		"anglais": "coward",
+		"chinois": "nuò fū"
+	},
+	{
+		"id": 53,
+		"français": "fier",
+		"anglais": "proud",
+		"chinois": "jiāo ào"
+	},
+	{
+		"id": 54,
+		"français": "humble",
+		"anglais": "humble",
+		"chinois": "qiān xū"
+	},
+	{
+		"id": 55,
+		"français": "fort",
+		"anglais": "strong",
+		"chinois": "qiáng"
+	},
+	{
+		"id": 56,
+		"français": "faible",
+		"anglais": "weak",
+		"chinois": "ruò"
+	},
+	{
+		"id": 57,
+		"français": "chaleur",
+		"anglais": "heat",
+		"chinois": "rè"
+	},
+	{
+		"id": 58,
+		"français": "froid",
+		"anglais": "cold",
+		"chinois": "lěng"
+	},
+	{
+		"id": 59,
+		"français": "vieux",
+		"anglais": "old",
+		"chinois": "lǎo"
+	},
+	{
+		"id": 60,
+		"français": "jeune",
+		"anglais": "young",
+		"chinois": "nián qīng"
+	},
+	{
+		"id": 61,
+		"français": "gros",
+		"anglais": "fat",
+		"chinois": "pàng"
+	},
+	{
+		"id": 62,
+		"français": "mince",
+		"anglais": "thin",
+		"chinois": "shòu"
+	},
+	{
+		"id": 63,
+		"français": "grand",
+		"anglais": "tall",
+		"chinois": "gāo"
+	},
+	{
+		"id": 64,
+		"français": "petit",
+		"anglais": "short",
+		"chinois": "ǎi"
+	},
+	{
+		"id": 65,
+		"français": "lent",
+		"anglais": "slow",
+		"chinois": "màn"
+	},
+	{
+		"id": 66,
+		"français": "rapide",
+		"anglais": "fast",
+		"chinois": "kuài"
+	},
+	{
+		"id": 67,
+		"français": "sombre",
+		"anglais": "dark",
+		"chinois": "hēi àn"
+	},
+	{
+		"id": 68,
+		"français": "clair",
+		"anglais": "light",
+		"chinois": "liàng"
+	},
+	{
+		"id": 69,
+		"français": "plein",
+		"anglais": "full",
+		"chinois": "mǎn"
+	},
+	{
+		"id": 70,
+		"français": "vide",
+		"anglais": "empty",
+		"chinois": "kōng"
+	},
+	{
+		"id": 71,
+		"français": "ouvrir",
+		"anglais": "open",
+		"chinois": "dǎ kāi"
+	},
+	{
+		"id": 72,
+		"français": "fermer",
+		"anglais": "close",
+		"chinois": "guān bì"
+	},
+	{
+		"id": 73,
+		"français": "entrer",
+		"anglais": "enter",
+		"chinois": "jìn"
+	},
+	{
+		"id": 74,
+		"français": "sortir",
+		"anglais": "exit",
+		"chinois": "chū kǒu"
+	},
+	{
+		"id": 75,
+		"français": "marcher",
+		"anglais": "walk",
+		"chinois": "zǒu"
+	},
+	{
+		"id": 76,
+		"français": "courir",
+		"anglais": "run",
+		"chinois": "pǎo"
+	},
+	{
+		"id": 77,
+		"français": "sauter",
+		"anglais": "jump",
+		"chinois": "tiào"
+	},
+	{
+		"id": 78,
+		"français": "tomber",
+		"anglais": "fall",
+		"chinois": "shuāi dǎo"
+	},
+	{
+		"id": 79,
+		"français": "s'asseoir",
+		"anglais": "sit",
+		"chinois": "zuò xià"
+	},
+	{
+		"id": 80,
+		"français": "se lever",
+		"anglais": "stand up",
+		"chinois": "zhàn qǐ lái"
+	},
+	{
+		"id": 81,
+		"français": "regarder",
+		"anglais": "look",
+		"chinois": "kàn"
+	},
+	{
+		"id": 82,
+		"français": "écouter",
+		"anglais": "listen",
+		"chinois": "tīng"
+	},
+	{
+		"id": 83,
+		"français": "parler",
+		"anglais": "speak",
+		"chinois": "shuō huà"
+	},
+	{
+		"id": 84,
+		"français": "entendre",
+		"anglais": "hear",
+		"chinois": "tīng jiàn"
+	},
+	{
+		"id": 85,
+		"français": "comprendre",
+		"anglais": "understand",
+		"chinois": "lǐ jiě"
+	},
+	{
+		"id": 86,
+		"français": "apprendre",
+		"anglais": "learn",
+		"chinois": "xué xí"
+	},
+	{
+		"id": 87,
+		"français": "savoir",
+		"anglais": "know",
+		"chinois": "zhī dào"
+	},
+	{
+		"id": 88,
+		"français": "oublier",
+		"anglais": "forget",
+		"chinois": "wàng jì"
+	},
+	{
+		"id": 89,
+		"français": "penser",
+		"anglais": "think",
+		"chinois": "sī kǎo"
+	},
+	{
+		"id": 90,
+		"français": "rêver",
+		"anglais": "dream",
+		"chinois": "mèng xiǎng"
+	},
+	{
+		"id": 91,
+		"français": "créer",
+		"anglais": "create",
+		"chinois": "chuàng zào"
+	},
+	{
+		"id": 92,
+		"français": "détruire",
+		"anglais": "destroy",
+		"chinois": "pò huài"
+	},
+	{
+		"id": 93,
+		"français": "aider",
+		"anglais": "help",
+		"chinois": "bāng zhù"
+	},
+	{
+		"id": 94,
+		"français": "aimer",
+		"anglais": "love",
+		"chinois": "ài"
+	},
+	{
+		"id": 95,
+		"français": "détester",
+		"anglais": "hate",
+		"chinois": "tǎo yàn"
+	},
+	{
+		"id": 96,
+		"français": "vouloir",
+		"anglais": "want",
+		"chinois": "xiǎng yào"
+	},
+	{
+		"id": 97,
+		"français": "besoin",
+		"anglais": "need",
+		"chinois": "xū yào"
+	},
+	{
+		"id": 98,
+		"français": "donner",
+		"anglais": "give",
+		"chinois": "gěi"
+	},
+	{
+		"id": 99,
+		"français": "recevoir",
+		"anglais": "receive",
+		"chinois": "shōu dào"
+	},
+	{
+		"id": 100,
+		"français": "partager",
+		"anglais": "share",
+		"chinois": "fēn xiǎng"
+	},
+	{
+		"id": 101,
+		"français": "acheter",
+		"anglais": "buy",
+		"chinois": "mǎi"
+	},
+	{
+		"id": 102,
+		"français": "vendre",
+		"anglais": "sell",
+		"chinois": "mài"
+	},
+	{
+		"id": 103,
+		"français": "cher",
+		"anglais": "costly",
+		"chinois": "guì"
+	},
+	{
+		"id": 104,
+		"français": "bon marché",
+		"anglais": "cheap",
+		"chinois": "pián yi"
+	},
+	{
+		"id": 105,
+		"français": "rendre visite à",
+		"anglais": "visit",
+		"chinois": "fǎng wèn"
+	},
+	{
+		"id": 106,
+		"français": "voyager",
+		"anglais": "travel",
+		"chinois": "lǚ xíng"
+	},
+	{
+		"id": 107,
+		"français": "découvrir",
+		"anglais": "discover",
+		"chinois": "fā xiàn"
+	},
+	{
+		"id": 108,
+		"français": "rencontrer",
+		"anglais": "meet",
+		"chinois": "yù jiàn"
+	},
+	{
+		"id": 109,
+		"français": "croire",
+		"anglais": "believe",
+		"chinois": "xiāng xìn"
+	},
+	{
+		"id": 110,
+		"français": "douter",
+		"anglais": "doubt",
+		"chinois": "huái yí"
+	},
+	{
+		"id": 111,
+		"français": "dire",
+		"anglais": "say",
+		"chinois": "shuō"
+	},
+	{
+		"id": 112,
+		"français": "écrire",
+		"anglais": "write",
+		"chinois": "xiě"
+	},
+	{
+		"id": 113,
+		"français": "lire",
+		"anglais": "read",
+		"chinois": "dú"
+	},
+	{
+		"id": 114,
+		"français": "regarder",
+		"anglais": "watch",
+		"chinois": "kàn"
+	},
+	{
+		"id": 115,
+		"français": "jouer",
+		"anglais": "play",
+		"chinois": "wán"
+	},
+	{
+		"id": 116,
+		"français": "chanter",
+		"anglais": "sing",
+		"chinois": "chàng"
+	},
+	{
+		"id": 117,
+		"français": "danser",
+		"anglais": "dance",
+		"chinois": "tiào wǔ"
+	},
+	{
+		"id": 118,
+		"français": "manger",
+		"anglais": "eat",
+		"chinois": "chī"
+	},
+	{
+		"id": 119,
+		"français": "boire",
+		"anglais": "drink",
+		"chinois": "hē"
+	},
+	{
+		"id": 120,
+		"français": "dormir",
+		"anglais": "sleep",
+		"chinois": "shuì jiào"
+	},
+	{
+		"id": 121,
+		"français": "réveiller",
+		"anglais": "wake up",
+		"chinois": "xǐng lái"
+	},
+	{
+		"id": 122,
+		"français": "vivre",
+		"anglais": "live",
+		"chinois": "shēng huó"
+	},
+	{
+		"id": 123,
+		"français": "mourir",
+		"anglais": "die",
+		"chinois": "sǐ"
+	},
+	{
+		"id": 124,
+		"français": "naître",
+		"anglais": "born",
+		"chinois": "chū shēng"
+	},
+	{
+		"id": 125,
+		"français": "grandir",
+		"anglais": "grow",
+		"chinois": "chéng zhǎng"
+	},
+	{
+		"id": 126,
+		"français": "vieillir",
+		"anglais": "age",
+		"chinois": "biàn lǎo"
+	},
+	{
+		"id": 127,
+		"français": "travailler",
+		"anglais": "work",
+		"chinois": "gōng zuò"
+	},
+	{
+		"id": 128,
+		"français": "étudier",
+		"anglais": "study",
+		"chinois": "xué xí"
+	},
+	{
+		"id": 129,
+		"français": "apprendre",
+		"anglais": "learn",
+		"chinois": "xué xí"
+	},
+	{
+		"id": 130,
+		"français": "enseigner",
+		"anglais": "teach",
+		"chinois": "jiāo"
+	},
+	{
+		"id": 131,
+		"français": "explorer",
+		"anglais": "explore",
+		"chinois": "tàn suǒ"
+	},
+	{
+		"id": 132,
+		"français": "voyager",
+		"anglais": "travel",
+		"chinois": "lǚ xíng"
+	},
+	{
+		"id": 133,
+		"français": "écouter",
+		"anglais": "listen",
+		"chinois": "tīng"
+	},
+	{
+		"id": 134,
+		"français": "voir",
+		"anglais": "see",
+		"chinois": "kàn jiàn"
+	},
+	{
+		"id": 135,
+		"français": "comprendre",
+		"anglais": "understand",
+		"chinois": "lǐ jiě"
+	},
+	{
+		"id": 136,
+		"français": "penser",
+		"anglais": "think",
+		"chinois": "sī kǎo"
+	},
+	{
+		"id": 137,
+		"français": "sentir",
+		"anglais": "feel",
+		"chinois": "gǎn jué"
+	},
+	{
+		"id": 138,
+		"français": "aimer",
+		"anglais": "love",
+		"chinois": "ài"
+	},
+	{
+		"id": 139,
+		"français": "détester",
+		"anglais": "hate",
+		"chinois": "tǎo yàn"
+	},
+	{
+		"id": 140,
+		"français": "sourire",
+		"anglais": "smile",
+		"chinois": "wēi xiào"
+	},
+	{
+		"id": 141,
+		"français": "pleurer",
+		"anglais": "cry",
+		"chinois": "kū"
+	},
+	{
+		"id": 142,
+		"français": "rire",
+		"anglais": "laugh",
+		"chinois": "xiào"
+	},
+	{
+		"id": 143,
+		"français": "courir",
+		"anglais": "run",
+		"chinois": "pǎo"
+	},
+	{
+		"id": 144,
+		"français": "sauter",
+		"anglais": "jump",
+		"chinois": "tiào"
+	},
+	{
+		"id": 145,
+		"français": "marcher",
+		"anglais": "walk",
+		"chinois": "zǒu"
+	},
+	{
+		"id": 146,
+		"français": "voler",
+		"anglais": "fly",
+		"chinois": "fēi"
+	},
+	{
+		"id": 147,
+		"français": "nager",
+		"anglais": "swim",
+		"chinois": "yóu yǒng"
+	},
+	{
+		"id": 148,
+		"français": "conduire",
+		"anglais": "drive",
+		"chinois": "kāi chē"
+	},
+	{
+		"id": 149,
+		"français": "voyager",
+		"anglais": "travel",
+		"chinois": "lǚ yóu"
+	},
+	{
+		"id": 150,
+		"français": "parler",
+		"anglais": "speak",
+		"chinois": "shuō huà"
+	},
+	{
+		"id": 151,
+		"français": "écrire",
+		"anglais": "write",
+		"chinois": "xiě"
+	},
+	{
+		"id": 152,
+		"français": "chanter",
+		"anglais": "sing",
+		"chinois": "chàng gē"
+	},
+	{
+		"id": 153,
+		"français": "danser",
+		"anglais": "dance",
+		"chinois": "tiào wǔ"
+	},
+	{
+		"id": 154,
+		"français": "lire",
+		"anglais": "read",
+		"chinois": "yuè dú"
+	},
+	{
+		"id": 155,
+		"français": "regarder",
+		"anglais": "watch",
+		"chinois": "guān kàn"
+	},
+	{
+		"id": 156,
+		"français": "jouer",
+		"anglais": "play",
+		"chinois": "wán"
+	},
+	{
+		"id": 157,
+		"français": "manger",
+		"anglais": "eat",
+		"chinois": "chī"
+	},
+	{
+		"id": 158,
+		"français": "boire",
+		"anglais": "drink",
+		"chinois": "hē"
+	},
+	{
+		"id": 159,
+		"français": "dormir",
+		"anglais": "sleep",
+		"chinois": "shuì jiào"
+	},
+	{
+		"id": 160,
+		"français": "rêver",
+		"anglais": "dream",
+		"chinois": "zuò mèng"
+	},
+	{
+		"id": 161,
+		"français": "penser",
+		"anglais": "think",
+		"chinois": "sī kǎo"
+	},
+	{
+		"id": 162,
+		"français": "aimer",
+		"anglais": "love",
+		"chinois": "ài"
+	},
+	{
+		"id": 163,
+		"français": "détester",
+		"anglais": "hate",
+		"chinois": "tǎo yàn"
+	},
+	{
+		"id": 164,
+		"français": "vouloir",
+		"anglais": "want",
+		"chinois": "xiǎng yào"
+	},
+	{
+		"id": 165,
+		"français": "besoin",
+		"anglais": "need",
+		"chinois": "xū yào"
+	},
+	{
+		"id": 166,
+		"français": "donner",
+		"anglais": "give",
+		"chinois": "gěi"
+	},
+	{
+		"id": 167,
+		"français": "recevoir",
+		"anglais": "receive",
+		"chinois": "jiē shōu"
+	},
+	{
+		"id": 168,
+		"français": "acheter",
+		"anglais": "buy",
+		"chinois": "mǎi"
+	},
+	{
+		"id": 169,
+		"français": "vendre",
+		"anglais": "sell",
+		"chinois": "mài"
+	},
+	{
+		"id": 170,
+		"français": "trouver",
+		"anglais": "find",
+		"chinois": "zhǎo dào"
+	},
+	{
+		"id": 171,
+		"français": "perdre",
+		"anglais": "lose",
+		"chinois": "diū shī"
+	},
+	{
+		"id": 172,
+		"français": "gagner",
+		"anglais": "win",
+		"chinois": "yíng dé"
+	},
+	{
+		"id": 173,
+		"français": "commencer",
+		"anglais": "start",
+		"chinois": "kāi shǐ"
+	},
+	{
+		"id": 174,
+		"français": "terminer",
+		"anglais": "finish",
+		"chinois": "wán chéng"
+	},
+	{
+		"id": 175,
+		"français": "arrêter",
+		"anglais": "stop",
+		"chinois": "tíng zhǐ"
+	},
+	{
+		"id": 176,
+		"français": "continuer",
+		"anglais": "continue",
+		"chinois": "jì xù"
+	},
+	{
+		"id": 177,
+		"français": "attendre",
+		"anglais": "wait",
+		"chinois": "děng dài"
+	},
+	{
+		"id": 178,
+		"français": "venir",
+		"anglais": "come",
+		"chinois": "lái"
+	},
+	{
+		"id": 179,
+		"français": "aller",
+		"anglais": "go",
+		"chinois": "qù"
+	},
+	{
+		"id": 180,
+		"français": "revenir",
+		"anglais": "return",
+		"chinois": "huí lái"
+	},
+	{
+		"id": 181,
+		"français": "partir",
+		"anglais": "leave",
+		"chinois": "lí kāi"
+	},
+	{
+		"id": 182,
+		"français": "s'asseoir",
+		"anglais": "sit",
+		"chinois": "zuò xià"
+	},
+	{
+		"id": 183,
+		"français": "se lever",
+		"anglais": "stand up",
+		"chinois": "zhàn qǐ lái"
+	},
+	{
+		"id": 184,
+		"français": "marcher",
+		"anglais": "walk",
+		"chinois": "zǒu"
+	},
+	{
+		"id": 185,
+		"français": "courir",
+		"anglais": "run",
+		"chinois": "pǎo"
+	},
+	{
+		"id": 186,
+		"français": "nager",
+		"anglais": "swim",
+		"chinois": "yóu yǒng"
+	},
+	{
+		"id": 187,
+		"français": "voler",
+		"anglais": "fly",
+		"chinois": "fēi xíng"
+	},
+	{
+		"id": 188,
+		"français": "conduire",
+		"anglais": "drive",
+		"chinois": "jià shǐ"
+	},
+	{
+		"id": 189,
+		"français": "voyager",
+		"anglais": "travel",
+		"chinois": "lǚ xíng"
+	},
+	{
+		"id": 190,
+		"français": "sauter",
+		"anglais": "jump",
+		"chinois": "tiào"
+	},
+	{
+		"id": 191,
+		"français": "danser",
+		"anglais": "dance",
+		"chinois": "tiào wǔ"
+	},
+	{
+		"id": 192,
+		"français": "chanter",
+		"anglais": "sing",
+		"chinois": "chàng gē"
+	},
+	{
+		"id": 193,
+		"français": "jouer",
+		"anglais": "play",
+		"chinois": "wán shuǎ"
+	},
+	{
+		"id": 194,
+		"français": "étudier",
+		"anglais": "study",
+		"chinois": "xué xí"
+	},
+	{
+		"id": 195,
+		"français": "enseigner",
+		"anglais": "teach",
+		"chinois": "jiāo"
+	},
+	{
+		"id": 196,
+		"français": "apprendre",
+		"anglais": "learn",
+		"chinois": "xué xí"
+	},
+	{
+		"id": 197,
+		"français": "comprendre",
+		"anglais": "understand",
+		"chinois": "lǐ jiě"
+	},
+	{
+		"id": 198,
+		"français": "expliquer",
+		"anglais": "explain",
+		"chinois": "jiě shì"
+	},
+	{
+		"id": 199,
+		"français": "découvrir",
+		"anglais": "discover",
+		"chinois": "fā xiàn"
+	},
+	{
+		"id": 200,
+		"français": "créer",
+		"anglais": "create",
+		"chinois": "chuàng zào"
+	},
+	{
+		"id": 201,
+		"français": "détruire",
+		"anglais": "destroy",
+		"chinois": "huǐ miè"
+	},
+	{
+		"id": 202,
+		"français": "aider",
+		"anglais": "help",
+		"chinois": "bāng zhù"
+	},
+	{
+		"id": 203,
+		"français": "oublier",
+		"anglais": "forget",
+		"chinois": "wàng jì"
+	},
+	{
+		"id": 204,
+		"français": "se souvenir de",
+		"anglais": "remember",
+		"chinois": "jì dé"
+	},
+	{
+		"id": 205,
+		"français": "accepter",
+		"anglais": "accept",
+		"chinois": "jiē shòu"
+	},
+	{
+		"id": 206,
+		"français": "refuser",
+		"anglais": "refuse",
+		"chinois": "jù jué"
+	},
+	{
+		"id": 207,
+		"français": "voir",
+		"anglais": "see",
+		"chinois": "kàn jiàn"
+	},
+	{
+		"id": 208,
+		"français": "regarder",
+		"anglais": "watch",
+		"chinois": "guān kàn"
+	},
+	{
+		"id": 209,
+		"français": "entendre",
+		"anglais": "hear",
+		"chinois": "tīng jiàn"
+	},
+	{
+		"id": 210,
+		"français": "écouter",
+		"anglais": "listen",
+		"chinois": "tīng"
+	},
+	{
+		"id": 211,
+		"français": "sentir",
+		"anglais": "feel",
+		"chinois": "gǎn jué"
+	},
+	{
+		"id": 212,
+		"français": "toucher",
+		"anglais": "touch",
+		"chinois": "chù mō"
+	},
+	{
+		"id": 213,
+		"français": "goûter",
+		"anglais": "taste",
+		"chinois": "cháng"
+	},
+	{
+		"id": 214,
+		"français": "cheveux",
+		"anglais": "hair",
+		"chinois": "tóu fā"
+	},
+	{
+		"id": 215,
+		"français": "yeux",
+		"anglais": "eyes",
+		"chinois": "yǎn jing"
+	},
+	{
+		"id": 216,
+		"français": "nez",
+		"anglais": "nose",
+		"chinois": "bí zi"
+	},
+	{
+		"id": 217,
+		"français": "bouche",
+		"anglais": "mouth",
+		"chinois": "zuǐ bā"
+	},
+	{
+		"id": 218,
+		"français": "oreilles",
+		"anglais": "ears",
+		"chinois": "ěr duo"
+	},
+	{
+		"id": 219,
+		"français": "main",
+		"anglais": "hand",
+		"chinois": "shǒu"
+	},
+	{
+		"id": 220,
+		"français": "pied",
+		"anglais": "foot",
+		"chinois": "jiǎo"
+	},
+	{
+		"id": 221,
+		"français": "corps",
+		"anglais": "body",
+		"chinois": "shēn tǐ"
+	},
+	{
+		"id": 222,
+		"français": "tête",
+		"anglais": "head",
+		"chinois": "tóu"
+	},
+	{
+		"id": 223,
+		"français": "cœur",
+		"anglais": "heart",
+		"chinois": "xīn zàng"
+	},
+	{
+		"id": 224,
+		"français": "esprit",
+		"anglais": "mind",
+		"chinois": "sī xiǎng"
+	},
+	{
+		"id": 225,
+		"français": "âme",
+		"anglais": "soul",
+		"chinois": "líng hún"
+	},
+	{
+		"id": 226,
+		"français": "famille",
+		"anglais": "family",
+		"chinois": "jiā tíng"
+	},
+	{
+		"id": 227,
+		"français": "père",
+		"anglais": "father",
+		"chinois": "fù qīn"
+	},
+	{
+		"id": 228,
+		"français": "mère",
+		"anglais": "mother",
+		"chinois": "mǔ qīn"
+	},
+	{
+		"id": 229,
+		"français": "frère",
+		"anglais": "brother",
+		"chinois": "xiōng dì"
+	},
+	{
+		"id": 230,
+		"français": "soeur",
+		"anglais": "sister",
+		"chinois": "jiě mèi"
+	},
+	{
+		"id": 231,
+		"français": "grand-père",
+		"anglais": "grandfather",
+		"chinois": "yé ye"
+	},
+	{
+		"id": 232,
+		"français": "grand-mère",
+		"anglais": "grandmother",
+		"chinois": "nǎi nai"
+	},
+	{
+		"id": 233,
+		"français": "fils",
+		"anglais": "son",
+		"chinois": "ér zi"
+	},
+	{
+		"id": 234,
+		"français": "fille",
+		"anglais": "daughter",
+		"chinois": "nǚ ér"
+	},
+	{
+		"id": 235,
+		"français": "oncle",
+		"anglais": "uncle",
+		"chinois": "shū shu"
+	},
+	{
+		"id": 236,
+		"français": "tante",
+		"anglais": "aunt",
+		"chinois": "ā yí"
+	},
+	{
+		"id": 237,
+		"français": "cousin",
+		"anglais": "cousin",
+		"chinois": "biǎo xiōng dì / biǎo jiě mèi"
+	},
+	{
+		"id": 238,
+		"français": "ami",
+		"anglais": "friend",
+		"chinois": "péng yǒu"
+	},
+	{
+		"id": 239,
+		"français": "amour",
+		"anglais": "love",
+		"chinois": "ài"
+	},
+	{
+		"id": 240,
+		"français": "bonheur",
+		"anglais": "happiness",
+		"chinois": "xìng fú"
+	},
+	{
+		"id": 241,
+		"français": "tristesse",
+		"anglais": "sadness",
+		"chinois": "bēi shāng"
+	},
+	{
+		"id": 242,
+		"français": "colère",
+		"anglais": "anger",
+		"chinois": "fèn nù"
+	},
+	{
+		"id": 243,
+		"français": "peur",
+		"anglais": "fear",
+		"chinois": "kǒng jù"
+	},
+	{
+		"id": 244,
+		"français": "surprise",
+		"anglais": "surprise",
+		"chinois": "jīng xǐ"
+	},
+	{
+		"id": 245,
+		"français": "déception",
+		"anglais": "disappointment",
+		"chinois": "shī wàng"
+	},
+	{
+		"id": 246,
+		"français": "espoir",
+		"anglais": "hope",
+		"chinois": "xī wàng"
+	},
+	{
+		"id": 247,
+		"français": "confiance",
+		"anglais": "trust",
+		"chinois": "xìn rèn"
+	},
+	{
+		"id": 248,
+		"français": "amitié",
+		"anglais": "friendship",
+		"chinois": "yǒu yì"
+	},
+	{
+		"id": 249,
+		"français": "paix",
+		"anglais": "peace",
+		"chinois": "hé píng"
+	},
+	{
+		"id": 250,
+		"français": "guerre",
+		"anglais": "war",
+		"chinois": "zhàn zhēng"
+	}
+]
