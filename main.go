@@ -1,13 +1,12 @@
 package main
 
 import (
-	"api/utils"
+	"github.com/Bakarseck/api/internals/utils"
 	"encoding/json"
 	"fmt"
 	"log"
 	"net/http"
 	"os"
-	"strconv"
 )
 
 type Words struct {
@@ -31,16 +30,17 @@ func main() {
 	log.Print(os.Getenv("AUTHOR"))
 
 	file, err := os.Open("second.json")
-	utils.CheckError(err)
+	if err != nil {
+		log.Println(err.Error())
+		return
+	}
 
 	defer file.Close()
 
-	err = json.NewDecoder(file).Decode(&words)
-	utils.CheckError(err)
+	json.NewDecoder(file).Decode(&words)
 
 	http.HandleFunc("/users", getUserHandler)
-	p, _ := strconv.Atoi(port)
-	p = utils.FindAvailablePort(p)
-	log.Printf("Serveur en cours d'exécution sur http://localhost:%v\n", p)
-	log.Fatal(http.ListenAndServe(fmt.Sprintf(":%d", p), nil))
+
+	log.Printf("Serveur en cours d'exécution sur http://localhost:%v\n", port)
+	log.Fatal(http.ListenAndServe(fmt.Sprintf(":%v", port), nil))
 }
