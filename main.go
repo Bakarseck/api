@@ -1,12 +1,13 @@
 package main
 
 import (
-	"github.com/Bakarseck/api/internals/utils"
 	"encoding/json"
 	"fmt"
 	"log"
 	"net/http"
 	"os"
+
+	"github.com/Bakarseck/api/internals/utils"
 )
 
 type Words struct {
@@ -24,6 +25,8 @@ func getUserHandler(w http.ResponseWriter, r *http.Request) {
 }
 
 func main() {
+
+	http.NewServeMux()
 
 	utils.LoadEnv(".env")
 	port := os.Getenv("PORT")
